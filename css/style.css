@@ -9,6 +9,7 @@ body {
     background-size: cover;
     animation-name: div1;
     animation-duration: 5s;
+    animation-delay: 1s;
     position: absolute;
     border-radius: 30px;
     animation-fill-mode: forwards;
@@ -26,7 +27,7 @@ body {
     animation-name: div2;
     animation-duration: 5s;
     border-radius: 30px;
-    animation-delay: 5s;
+    animation-delay: 6s;
     animation-fill-mode: forwards;
     animation-direction: reverse;
     animation-timing-function:ease-in-out;
@@ -42,9 +43,9 @@ body {
     animation-name: div3;
     animation-duration: 5s;
     border-radius: 30px;
-   animation-delay: 10s;
-   animation-fill-mode: forwards;
-   animation-timing-function:ease-in-out;
+    animation-delay: 11s;
+    animation-fill-mode: forwards;
+    animation-timing-function:ease-in-out;
 
 }
 .div4  {
@@ -58,7 +59,7 @@ body {
     animation-duration: 5s;
 
     border-radius: 30px;
-    animation-delay: 15s;
+    animation-delay: 16s;
     animation-fill-mode: forwards;
     animation-direction: reverse;
     animation-timing-function:ease-in-out;
@@ -73,9 +74,9 @@ body {
     margin: 1000px 0px;
     animation-name: div5;
     animation-duration: 5s;
-    
+
     border-radius: 30px;
-    animation-delay: 20s;
+    animation-delay: 21s;
     animation-fill-mode: forwards;
     animation-timing-function:ease-in-out;
 
@@ -89,9 +90,9 @@ body {
     margin: 1250px 0px 50px ;
     animation-name: div6;
     animation-duration: 5s;
-
+    
     border-radius: 30px;
-    animation-delay: 25s;
+    animation-delay: 26s;
     animation-fill-mode: forwards;
     animation-direction: reverse;
     animation-timing-function:ease-in-out;
